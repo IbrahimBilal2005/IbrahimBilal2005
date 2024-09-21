@@ -4,7 +4,7 @@
 
 Hello, World! 
 
-I’m a second-year Computer Science student and an artist who loves to paint, passionate about merging creativity with code to solve meaningful problems. I combine my artistic creativity with technical skills to develop cutting-edge solutions. By blending design, out-of-the-box thinking, and emerging technologies, I aim to make a positive impact on the tech world. This journey starts right here!
+I’m Ibrahim! I’m a second-year Computer Science student and an avid painter. I’m passionate about merging creativity with code to find innovative solutions to important problems. By integrating design, creative thinking, and emerging technologies in computer science, I strive to make a positive impact in the tech world. Join me on this exciting journey!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-bilal-a3823626a)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arts.ibra)
