@@ -27,5 +27,6 @@ I’m a second-year Computer Science student and an artist who loves to paint, p
 
 I’m currently developing a Django-based web application designed to foster connections among university students, peers, and alumni. The platform facilitates networking, study groups, and access to course-specific resources, creating a strong academic community and support network at UofT.
 
+#
 
 
