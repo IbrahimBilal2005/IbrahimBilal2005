@@ -1,10 +1,9 @@
-## 💻 Ibrahim Bilal
-
+## 🏄‍♂️ Ibrahim Bilal
 `Computer Science @ University of Toronto (St. George Campus)`
 
 Hello, World! 
 
-I’m Ibrahim! I’m a second-year Computer Science student and an avid painter. I’m passionate about merging creativity with code to find innovative solutions to important problems. By integrating design, creative thinking, and emerging technologies in computer science, I strive to make a positive impact in the tech world. Join me on this exciting journey!
+I’m Ibrahim, a second-year Computer Science student and an avid painter. I’m passionate about merging creativity with code to find innovative solutions to important problems. By integrating design, creative thinking, and emerging technologies in computer science, I strive to make a positive impact in the tech world, and in the lives of people around the world. Join me on this exciting journey!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-bilal-a3823626a)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arts.ibra)
