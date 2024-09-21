@@ -29,4 +29,12 @@ I’m currently developing a Django-based web application designed to foster con
 
 #
 
+### 📊 Stats
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimBilal2005&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 
