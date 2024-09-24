@@ -3,7 +3,7 @@
 
 #### Hello, World! 
 
-I'm Ibrahim, a second-year Computer Science student and a passionate painter. I’m dedicated to blending creativity with technology to craft innovative solutions for meaningful challenges. By uniting design, creative thinking, and cutting-edge advancements in computer science, I aim to drive positive change in both the tech industry and the world at large. Join me as I embark on this exciting journey of impact and innovation!
+I'm Ibrahim, a second-year Computer Science student and a passionate painter. I’m dedicated to blending creativity with technology to develop innovative solutions to meaningful challenges. By uniting design, creative thinking, and cutting-edge advancements in computer science, I aim to drive positive change in both the tech industry and the world at large. Join me as I embark on this exciting journey of impact and innovation!
 
 
 
