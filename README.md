@@ -28,12 +28,6 @@ I'm Ibrahim, a third-year Computer Science student who loves building useful, me
 <br />
 
 
-### 🔭 Current Project:
-
-I’m currently building a real-time Quran translation app that listens to live recitation and displays the matching ayah and its English translation as it’s being read. The app uses OpenAI’s Whisper for speech recognition and matches transcribed text to Quranic verses with fuzzy logic. It’s designed to help users better understand the Quran in real time, especially during prayer or study.
-
-#
-
 ### 📊 Stats
 
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimBilal2005&show_icons=true&theme=gruvbox)
