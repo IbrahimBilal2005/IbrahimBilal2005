@@ -3,7 +3,7 @@
 
 #### Hello! 
 
-I'm Ibrahim, a third-year Computer Science student who loves building useful, meaningful products. I'm passionate about blending creativity, critical thinking, and innovation to solve real problems.
+As a second year Computer Science student at the University of Toronto (St. George), I am eager to pair critical thinking, innovation, and creativity with emerging technologies in the world of CS. 
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-bilal-a3823626a)
