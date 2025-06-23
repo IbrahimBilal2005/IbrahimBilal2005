@@ -27,6 +27,24 @@ As a second year Computer Science student at the University of Toronto (St. Geor
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <br />
 
+<div style="display: flex; flex-wrap: wrap; gap: 8px; font-family: sans-serif;">
+
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Python</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Django</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Java</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Git</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">HTML</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Pandas</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Plotly</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">NumPy</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">JavaScript</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">FastAPI</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Flutter</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Linux</div>
+  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Firebase</div>
+
+</div>
+
 ---
 ### 📊 Github Stats:
 
