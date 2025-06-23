@@ -26,11 +26,9 @@ As a second year Computer Science student at the University of Toronto (St. Geor
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <br />
-
+''
 ---
 ### 📊 Github Stats:
-
-''
 
 ![](https://github-readme-stats.vercel.app/api?username=IbrahimBilal2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBilal2005&theme=dark&hide_border=true)<br/>
