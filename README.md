@@ -28,8 +28,9 @@ As a second year Computer Science student at the University of Toronto (St. Geor
 <br />
 
 ---
+### 📊 Github Stats:
 
-### 🧰 Languages and Tools:
+''
 
 ![](https://github-readme-stats.vercel.app/api?username=IbrahimBilal2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBilal2005&theme=dark&hide_border=true)<br/>
