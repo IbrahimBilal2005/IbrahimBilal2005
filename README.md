@@ -27,23 +27,24 @@ As a second year Computer Science student at the University of Toronto (St. Geor
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <br />
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; font-family: sans-serif;">
-
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Python</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Django</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Java</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Git</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">HTML</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Pandas</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Plotly</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">NumPy</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">JavaScript</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">FastAPI</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Flutter</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Linux</div>
-  <div style="padding: 6px 12px; background-color: #e5e5e5; border-radius: 6px;">Firebase</div>
-
-</div>
+### 💻 Languages:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 ### 📊 Github Stats:
