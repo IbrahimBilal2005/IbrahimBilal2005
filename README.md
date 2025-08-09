@@ -1,11 +1,18 @@
 ## 🏄‍♂️ Ibrahim Bilal
 `Computer Science @ University of Toronto (St. George Campus)`
 
-#### Hello! 
-
 As a second year Computer Science student at the University of Toronto (St. George), I am eager to pair critical thinking, innovation, and creativity with emerging technologies in the world of CS. 
 
+### 🚀 Currently Working On:
+**TidyTabs – AI-Powered Chrome Extension**  
+A productivity-focused Chrome extension that **organizes browser tabs intelligently** into relevant categories.  
+- Built with a **locally trained and fine-tuned AI model** using TF-IDF and Logistic Regression for lightning-fast offline classification.  
+- The AI model is optimized with automatic threshold tuning for high precision and coverage.  
+- Backend runs on **FastAPI** for local/remote inference, with zero dependency on third-party AI APIs for classification.
+-   [Download Chrome Extension Here!](https://chromewebstore.google.com/detail/tidytabs/inmcfgkemanhdkhcfefdhokeogfcllap?authuser=0&hl=en)
+-   [Demo Video](https://youtu.be/UfSk6MHJUvc?si=iAaxf4YgGd-16LR3)
 
+  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-bilal-a3823626a)
 
 ---
