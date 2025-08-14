@@ -7,6 +7,12 @@ As a second year Computer Science student at the University of Toronto (St. Geor
 
 
 ### 🚀 Currently Working On:
+
+**Oracle EPM Migration via Azure Service Bus**
+- Implementing an Azure Data Factory pipeline to extract and transform Oracle EPM financial analytics data and store into Azure Blob Storage
+- Setting up ExpressRoute private VNet network accessible via DNS configuration and pricate endpoints for direct ABS access for external applications. 
+- Designing architecture for APIM configuration for external consumers to access Blob data via ABS REST API and SAS token URL generation. 
+
 **TidyTabs – AI-Powered Chrome Extension**  
 A productivity-focused Chrome extension that **organizes browser tabs intelligently** into relevant categories.  
 - Built with a **locally trained and fine-tuned AI model** using TF-IDF and Logistic Regression for lightning-fast offline classification.  
