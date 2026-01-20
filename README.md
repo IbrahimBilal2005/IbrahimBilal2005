@@ -1,7 +1,7 @@
 ## 🏄‍♂️ Ibrahim Bilal
 `Computer Science @ University of Toronto (St. George Campus)`
 
-As a second year Computer Science student at the University of Toronto (St. George), I am eager to pair critical thinking, innovation, and creativity with emerging technologies in the world of CS. 
+As a third year Computer Science student at the University of Toronto (St. George), I am eager to pair critical thinking, innovation, and creativity with emerging technologies in the world of CS. 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-bilal-a3823626a)
 [![Email Badge](https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:ibrahim.05.bilal@gmail.com)
